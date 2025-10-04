@@ -1,0 +1,1 @@
+Hi, now I am checking git diff
